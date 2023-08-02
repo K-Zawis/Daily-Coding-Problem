@@ -7,7 +7,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 i
 """
 
 num_list = [10, 15, 3, 7]
-k = 10
+k = 17
 
 def is_sum_in_list_elem(num_list, k):
     """
